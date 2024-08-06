@@ -64,12 +64,12 @@ below for `2024.08.06.0001`. The tagged approach is preferred for precision.
 
 Access examples:
 
-* HEAD: `https://raw.githubusercontent.com/orcfax/price-feeds/main/feeds/price-feeds.json`
-* Tagged: `https://raw.githubusercontent.com/orcfax/price-feeds/2024.08.06.0001/feeds/price-feeds.json`
-* Commit: `https://raw.githubusercontent.com/orcfax/price-feeds/97940c30407da79a6389386b1e7ad9500e06cf50/feeds/price-feeds.json`
+* HEAD: `https://raw.githubusercontent.com/orcfax/cer-feeds/main/feeds/cer-feeds.json`
+* Tagged: `https://raw.githubusercontent.com/orcfax/cer-feeds/2024.08.06.0001/feeds/cer-feeds.json`
+* Commit: `https://raw.githubusercontent.com/orcfax/cer-feeds/73d567fe7cd7cc5993f01dc0acfa20e97f219a6e/feeds/cer-feeds.json`
 
 #### Download
 
 A tag can also be downloaded via the GitHub tag page, e.g. [2024.08.06.0001][#1]
 
-[#1]: https://github.com/orcfax/price-feeds/releases/tag/2024.08.06.0001
+[#1]: https://github.com/orcfax/cer-feeds/releases/tag/2024.08.06.0001
