@@ -1,6 +1,6 @@
 {
     "meta": {
-        "description": "active Orcfax feeds",
+        "description": "active Orcfax CER feeds",
         "version": "2024.08.06.0001"
     },
     "feeds": [

@@ -1,6 +1,7 @@
-# Price Feeds
+# CER Feeds
 
-Describes active Orcfax feeds for Orcfax publishing and monitoring.
+Describes active Orcfax `currentExchangeRate` (CER) feeds for Orcfax publishing
+and monitoring.
 
 ## Status
 
