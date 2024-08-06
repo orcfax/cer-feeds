@@ -58,8 +58,17 @@ Tagging should be connected to feed changes, and so might look as follows:
 
 ### Accessing versions
 
-Access via:
+The JSON can be accessed through different approaches. Some examples are shown
+below for `2024.08.06.0001`. The tagged approach is preferred for precision.
+
+Access examples:
 
 * HEAD: `https://raw.githubusercontent.com/orcfax/price-feeds/main/feeds/price-feeds.json`
 * Tagged: `https://raw.githubusercontent.com/orcfax/price-feeds/2024.08.06.0001/feeds/price-feeds.json`
 * Commit: `https://raw.githubusercontent.com/orcfax/price-feeds/97940c30407da79a6389386b1e7ad9500e06cf50/feeds/price-feeds.json`
+
+#### Download
+
+A tag can also be downloaded via the GitHub tag page, e.g. [2024.08.06.0001][#1]
+
+[#1]: https://github.com/orcfax/price-feeds/releases/tag/2024.08.06.0001
