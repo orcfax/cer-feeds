@@ -1,0 +1,13 @@
+List utilities using this source data here. These all need updating if the
+source list changes.
+
+* collector-node
+* price-monitor
+* pubwatch
+
+Not yet using:
+
+* explorer
+* validator-node
+* CNT-config-generator
+* CNT-collector-indexer
