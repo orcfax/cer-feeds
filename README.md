@@ -19,7 +19,7 @@ network and client needs are better understood.
 * **deviation**: percentage deviation to monitor, integer, ex. `1` == `1%`
 * **source**: ( `cex` | `dex` )
 * **calculation**: ( `median` | `weighted mean` )
-* **status**: (`sponsored` | `subsidized` | `showcase`)
+* **status**: (`paid` | `subsidized` | `showcase`)
 * **type**: (`CER` ) `CER` == `currencyExchangeRate`
 
 <!-- markdownlint-enable -->
