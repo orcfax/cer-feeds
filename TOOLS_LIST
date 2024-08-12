@@ -4,6 +4,7 @@ source list changes.
 * collector-node
 * price-monitor
 * pubwatch
+* infra-monitoring
 
 Not yet using:
 
