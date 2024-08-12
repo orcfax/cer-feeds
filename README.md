@@ -78,3 +78,8 @@ Access examples:
 A tag can also be downloaded via the GitHub tag page, e.g. [2024.08.06.0001][#1]
 
 [#1]: https://github.com/orcfax/cer-feeds/releases/tag/2024.08.06.0001
+
+## Tools
+
+Update the [TOOLS_LIST](TOOLS_LIST) with any new tools using the list, and make
+sure to let code owners know about any changes.
