@@ -43,6 +43,11 @@ document.
         },
 ```
 
+## Adding feeds
+
+Try to add feeds in alphabetical order so they can be more easily audited then
+once done, follow the versioning methodology set out below.
+
 ## Versioning
 
 Calver is proposed. Changes should be made to the document locally. The metadata
