@@ -95,6 +95,16 @@
             "type": "CER"
         },
         {
+            "pair": "CBLP-ADA",
+            "label": "CBLP-ADA",
+            "interval": 7200,
+            "deviation": 1,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "paid",
+            "type": "CER"
+        }
+        {
             "pair": "CERRA-ADA",
             "label": "CERRA-ADA",
             "interval": 3600,
@@ -206,6 +216,16 @@
         },
         {
             "pair": "WMT-ADA",
+            "label": "WMT-ADA",
+            "interval": 3600,
+            "deviation": 5,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "WMTX-ADA",
             "label": "WMT-ADA",
             "interval": 3600,
             "deviation": 5,
