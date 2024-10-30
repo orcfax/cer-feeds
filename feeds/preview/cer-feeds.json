@@ -1,7 +1,7 @@
 {
     "meta": {
         "description": "active Orcfax CER feeds",
-        "version": "2024.10.28.0001"
+        "version": "2024.10.30.0001"
     },
     "feeds": [
         {
@@ -215,18 +215,8 @@
             "type": "CER"
         },
         {
-            "pair": "WMT-ADA",
-            "label": "WMT-ADA",
-            "interval": 3600,
-            "deviation": 5,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
             "pair": "WMTX-ADA",
-            "label": "WMT-ADA",
+            "label": "WMTX-ADA",
             "interval": 3600,
             "deviation": 5,
             "source": "dex",

@@ -1,7 +1,7 @@
 {
     "meta": {
         "description": "active Orcfax CER feeds",
-        "version": "2024.08.12.0001"
+        "version": "2024.10.30.0001"
     },
     "feeds": [
         {
@@ -95,13 +95,13 @@
             "type": "CER"
         },
         {
-            "pair": "CERRA-ADA",
-            "label": "CERRA-ADA",
-            "interval": 3600,
-            "deviation": 2,
+            "pair": "CBLP-ADA",
+            "label": "CBLP-ADA",
+            "interval": 7200,
+            "deviation": 1,
             "source": "dex",
             "calculation": "weighted mean",
-            "status": "showcase",
+            "status": "paid",
             "type": "CER"
         },
         {
@@ -205,8 +205,8 @@
             "type": "CER"
         },
         {
-            "pair": "WMT-ADA",
-            "label": "WMT-ADA",
+            "pair": "WMTX-ADA",
+            "label": "WMTX-ADA",
             "interval": 3600,
             "deviation": 5,
             "source": "dex",
