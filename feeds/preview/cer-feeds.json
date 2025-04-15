@@ -45,8 +45,8 @@
             "type": "CER"
         },
         {
-            "pair": "USDA-ADA",
-            "label": "USDA-ADA",
+            "pair": "ADA-USDA",
+            "label": "ADA-USDA",
             "interval": 21600,
             "deviation": 5,
             "source": "dex",
