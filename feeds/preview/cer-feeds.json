@@ -1,7 +1,7 @@
 {
     "meta": {
         "description": "active Orcfax CER feeds",
-        "version": "2025.04.15.0001"
+        "version": "2025.05.06.0001"
     },
     "feeds": [
         {
@@ -61,7 +61,7 @@
             "deviation": 5,
             "source": "dex",
             "calculation": "weighted mean",
-            "status": "paid",
+            "status": "showcase",
             "type": "CER"
         },
         {
@@ -71,7 +71,7 @@
             "deviation": 5,
             "source": "dex",
             "calculation": "weighted mean",
-            "status": "paid",
+            "status": "showcase",
             "type": "CER"
         },
         {
@@ -81,7 +81,7 @@
             "deviation": 5,
             "source": "dex",
             "calculation": "weighted mean",
-            "status": "paid",
+            "status": "showcase",
             "type": "CER"
         },
         {
@@ -91,7 +91,7 @@
             "deviation": 5,
             "source": "dex",
             "calculation": "weighted mean",
-            "status": "paid",
+            "status": "showcase",
             "type": "CER"
         },
         {
@@ -101,7 +101,7 @@
             "deviation": 5,
             "source": "dex",
             "calculation": "weighted mean",
-            "status": "paid",
+            "status": "showcase",
             "type": "CER"
         },
         {
@@ -111,7 +111,7 @@
             "deviation": 5,
             "source": "dex",
             "calculation": "weighted mean",
-            "status": "paid",
+            "status": "showcase",
             "type": "CER"
         },
         {
@@ -121,7 +121,7 @@
             "deviation": 5,
             "source": "dex",
             "calculation": "weighted mean",
-            "status": "paid",
+            "status": "showcase",
             "type": "CER"
         },
         {
@@ -131,7 +131,27 @@
             "deviation": 5,
             "source": "dex",
             "calculation": "weighted mean",
-            "status": "paid",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "ADA-iUSD",
+            "label": "ADA-iUSD",
+            "interval": 21600,
+            "deviation": 5,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "WMTX-ADA",
+            "label": "WMTX-ADA",
+            "interval": 21600,
+            "deviation": 5,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
             "type": "CER"
         }
     ]
