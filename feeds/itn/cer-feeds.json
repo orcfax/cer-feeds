@@ -1,0 +1,98 @@
+{
+    "meta": {
+        "description": "active Orcfax CER feeds (ITN)",
+        "version": "2025.05.19.0001"
+    },
+    "feeds": [
+        {
+            "pair": "ADA-USD",
+            "label": "ADA-USD",
+            "interval": 3600,
+            "deviation": 1,
+            "source": "cex",
+            "calculation": "median",
+            "status": "subsidized",
+            "type": "CER"
+        },
+        {
+            "pair": "AR/USD",
+            "label": "AR/USD",
+            "interval": 3600,
+            "deviation": 1,
+            "source": "cex",
+            "calculation": "median",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "BTC/USD",
+            "label": "BTC/USD",
+            "interval": 3600,
+            "deviation": 1,
+            "source": "cex",
+            "calculation": "median",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "ETH/USD",
+            "label": "ETH/USD",
+            "interval": 3600,
+            "deviation": 1,
+            "source": "cex",
+            "calculation": "median",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "FIL/USD",
+            "label": "FIL/USD",
+            "interval": 3600,
+            "deviation": 1,
+            "source": "cex",
+            "calculation": "median",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "LINK/USD",
+            "label": "LINK/USD",
+            "interval": 3600,
+            "deviation": 1,
+            "source": "cex",
+            "calculation": "median",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "HBAR/USD",
+            "label": "HBAR/USD",
+            "interval": 3600,
+            "deviation": 1,
+            "source": "cex",
+            "calculation": "median",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "SOL/USD",
+            "label": "SOL/USD",
+            "interval": 3600,
+            "deviation": 1,
+            "source": "cex",
+            "calculation": "median",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "XRP/USD",
+            "label": "XRP/USD",
+            "interval": 3600,
+            "deviation": 1,
+            "source": "cex",
+            "calculation": "median",
+            "status": "showcase",
+            "type": "CER"
+        }
+    ]
+}
