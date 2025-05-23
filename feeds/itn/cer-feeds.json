@@ -1,7 +1,7 @@
 {
     "meta": {
         "description": "active Orcfax CER feeds (ITN)",
-        "version": "2025.05.19.0001"
+        "version": "2025.05.23.0001"
     },
     "feeds": [
         {
@@ -15,8 +15,8 @@
             "type": "CER"
         },
         {
-            "pair": "AR/USD",
-            "label": "AR/USD",
+            "pair": "AR-USD",
+            "label": "AR-USD",
             "interval": 3600,
             "deviation": 1,
             "source": "cex",
@@ -25,8 +25,8 @@
             "type": "CER"
         },
         {
-            "pair": "BTC/USD",
-            "label": "BTC/USD",
+            "pair": "BTC-USD",
+            "label": "BTC-USD",
             "interval": 3600,
             "deviation": 1,
             "source": "cex",
@@ -35,8 +35,8 @@
             "type": "CER"
         },
         {
-            "pair": "ETH/USD",
-            "label": "ETH/USD",
+            "pair": "ETH-USD",
+            "label": "ETH-USD",
             "interval": 3600,
             "deviation": 1,
             "source": "cex",
@@ -45,8 +45,8 @@
             "type": "CER"
         },
         {
-            "pair": "FIL/USD",
-            "label": "FIL/USD",
+            "pair": "FIL-USD",
+            "label": "FIL-USD",
             "interval": 3600,
             "deviation": 1,
             "source": "cex",
@@ -55,8 +55,8 @@
             "type": "CER"
         },
         {
-            "pair": "LINK/USD",
-            "label": "LINK/USD",
+            "pair": "LINK-USD",
+            "label": "LINK-USD",
             "interval": 3600,
             "deviation": 1,
             "source": "cex",
@@ -65,8 +65,8 @@
             "type": "CER"
         },
         {
-            "pair": "HBAR/USD",
-            "label": "HBAR/USD",
+            "pair": "HBAR-USD",
+            "label": "HBAR-USD",
             "interval": 3600,
             "deviation": 1,
             "source": "cex",
@@ -75,8 +75,8 @@
             "type": "CER"
         },
         {
-            "pair": "SOL/USD",
-            "label": "SOL/USD",
+            "pair": "SOL-USD",
+            "label": "SOL-USD",
             "interval": 3600,
             "deviation": 1,
             "source": "cex",
@@ -85,8 +85,8 @@
             "type": "CER"
         },
         {
-            "pair": "XRP/USD",
-            "label": "XRP/USD",
+            "pair": "XRP-USD",
+            "label": "XRP-USD",
             "interval": 3600,
             "deviation": 1,
             "source": "cex",
