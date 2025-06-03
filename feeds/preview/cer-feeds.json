@@ -37,7 +37,7 @@
         {
             "pair": "ADA-USDM",
             "label": "ADA-USDM",
-            "interval": 21600,
+            "interval": 3600,
             "deviation": 5,
             "source": "dex",
             "calculation": "weighted mean",
@@ -67,8 +67,8 @@
         {
             "pair": "QTRS-ADA",
             "label": "QTRS-ADA",
-            "interval": 21600,
-            "deviation": 5,
+            "interval": 3600,
+            "deviation": 2,
             "source": "dex",
             "calculation": "weighted mean",
             "status": "showcase",
@@ -77,7 +77,7 @@
         {
             "pair": "ADA-iUSD",
             "label": "ADA-iUSD",
-            "interval": 21600,
+            "interval": 3600,
             "deviation": 5,
             "source": "dex",
             "calculation": "weighted mean",
@@ -87,7 +87,7 @@
         {
             "pair": "WMTX-ADA",
             "label": "WMTX-ADA",
-            "interval": 21600,
+            "interval": 3600,
             "deviation": 5,
             "source": "dex",
             "calculation": "weighted mean",
