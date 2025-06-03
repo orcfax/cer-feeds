@@ -5,13 +5,23 @@
     },
     "feeds": [
         {
-            "pair": "CBLP-ADA",
-            "label": "CBLP-ADA",
-            "interval": 7200,
-            "deviation": 1,
+            "pair": "ADA-iUSD",
+            "label": "ADA-iUSD",
+            "interval": 3600,
+            "deviation": 5,
             "source": "dex",
             "calculation": "weighted mean",
-            "status": "paid",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "ADA-DJED",
+            "label": "ADA-DJED",
+            "interval": 3600,
+            "deviation": 5,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
             "type": "CER"
         },
         {
@@ -25,26 +35,6 @@
             "type": "CER"
         },
         {
-            "pair": "FACT-ADA",
-            "label": "FACT-ADA",
-            "interval": 21600,
-            "deviation": 1,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "subsidized",
-            "type": "CER"
-        },
-        {
-            "pair": "ADA-USDM",
-            "label": "ADA-USDM",
-            "interval": 21600,
-            "deviation": 5,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
             "pair": "ADA-USDA",
             "label": "ADA-USDA",
             "interval": 21600,
@@ -52,6 +42,46 @@
             "source": "dex",
             "calculation": "weighted mean",
             "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "ADA-USDM",
+            "label": "ADA-USDM",
+            "interval": 3600,
+            "deviation": 5,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "CBLP-ADA",
+            "label": "CBLP-ADA",
+            "interval": 7200,
+            "deviation": 1,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "paid",
+            "type": "CER"
+        },
+        {
+            "pair": "COPI-ADA",
+            "label": "COPI-ADA",
+            "interval": 3600,
+            "deviation": 5,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "FACT-ADA",
+            "label": "FACT-ADA",
+            "interval": 21600,
+            "deviation": 1,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "subsidized",
             "type": "CER"
         },
         {
@@ -65,9 +95,9 @@
             "type": "CER"
         },
         {
-            "pair": "TALOS-ADA",
-            "label": "TALOS-ADA",
-            "interval": 21600,
+            "pair": "LQ-ADA",
+            "label": "LQ-ADA",
+            "interval": 3600,
             "deviation": 5,
             "source": "dex",
             "calculation": "weighted mean",
@@ -75,49 +105,9 @@
             "type": "CER"
         },
         {
-            "pair": "NVL-ADA",
-            "label": "NVL-ADA",
-            "interval": 21600,
-            "deviation": 5,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
-            "pair": "BODEGA-ADA",
-            "label": "BODEGA-ADA",
-            "interval": 21600   ,
-            "deviation": 5,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
-            "pair": "XER-ADA",
-            "label": "XER-ADA",
-            "interval": 21600,
-            "deviation": 5,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
-            "pair": "NEWM-ADA",
-            "label": "NEWM-ADA",
-            "interval": 21600,
-            "deviation": 5,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
-            "pair": "GENS-ADA",
-            "label": "GENS-ADA",
-            "interval": 21600,
+            "pair": "MIN-ADA",
+            "label": "MIN-ADA",
+            "interval": 3600,
             "deviation": 5,
             "source": "dex",
             "calculation": "weighted mean",
@@ -127,7 +117,17 @@
         {
             "pair": "QTRS-ADA",
             "label": "QTRS-ADA",
-            "interval": 21600,
+            "interval": 3600,
+            "deviation": 2,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "SHEN-ADA",
+            "label": "SHEN-ADA",
+            "interval": 3600,
             "deviation": 5,
             "source": "dex",
             "calculation": "weighted mean",
@@ -135,9 +135,9 @@
             "type": "CER"
         },
         {
-            "pair": "ADA-iUSD",
-            "label": "ADA-iUSD",
-            "interval": 21600,
+            "pair": "SNEK-ADA",
+            "label": "SNEK-ADA",
+            "interval": 3600,
             "deviation": 5,
             "source": "dex",
             "calculation": "weighted mean",
@@ -147,7 +147,7 @@
         {
             "pair": "WMTX-ADA",
             "label": "WMTX-ADA",
-            "interval": 21600,
+            "interval": 3600,
             "deviation": 5,
             "source": "dex",
             "calculation": "weighted mean",
