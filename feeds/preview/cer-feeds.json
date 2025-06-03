@@ -87,7 +87,7 @@
         {
             "pair": "BODEGA-ADA",
             "label": "BODEGA-ADA",
-            "interval": 21600   ,
+            "interval": 21600,
             "deviation": 5,
             "source": "dex",
             "calculation": "weighted mean",
@@ -148,6 +148,66 @@
             "pair": "WMTX-ADA",
             "label": "WMTX-ADA",
             "interval": 21600,
+            "deviation": 5,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "ADA-DJED",
+            "label": "ADA-DJED",
+            "interval": 3600,
+            "deviation": 5,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "COPI-ADA",
+            "label": "COPI-ADA",
+            "interval": 3600,
+            "deviation": 5,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "LQ-ADA",
+            "label": "LQ-ADA",
+            "interval": 3600,
+            "deviation": 5,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "MIN-ADA",
+            "label": "MIN-ADA",
+            "interval": 3600,
+            "deviation": 5,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "SHEN-ADA",
+            "label": "SHEN-ADA",
+            "interval": 3600,
+            "deviation": 5,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "SNEK-ADA",
+            "label": "SNEK-ADA",
+            "interval": 3600,
             "deviation": 5,
             "source": "dex",
             "calculation": "weighted mean",
