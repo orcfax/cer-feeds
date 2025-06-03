@@ -65,66 +65,6 @@
             "type": "CER"
         },
         {
-            "pair": "TALOS-ADA",
-            "label": "TALOS-ADA",
-            "interval": 21600,
-            "deviation": 5,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
-            "pair": "NVL-ADA",
-            "label": "NVL-ADA",
-            "interval": 21600,
-            "deviation": 5,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
-            "pair": "BODEGA-ADA",
-            "label": "BODEGA-ADA",
-            "interval": 21600,
-            "deviation": 5,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
-            "pair": "XER-ADA",
-            "label": "XER-ADA",
-            "interval": 21600,
-            "deviation": 5,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
-            "pair": "NEWM-ADA",
-            "label": "NEWM-ADA",
-            "interval": 21600,
-            "deviation": 5,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
-            "pair": "GENS-ADA",
-            "label": "GENS-ADA",
-            "interval": 21600,
-            "deviation": 5,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
             "pair": "QTRS-ADA",
             "label": "QTRS-ADA",
             "interval": 21600,
