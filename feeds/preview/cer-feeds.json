@@ -85,26 +85,6 @@
             "type": "CER"
         },
         {
-            "pair": "BODEGA-ADA",
-            "label": "BODEGA-ADA",
-            "interval": 21600   ,
-            "deviation": 5,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
-            "pair": "XER-ADA",
-            "label": "XER-ADA",
-            "interval": 21600,
-            "deviation": 5,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
             "pair": "NEWM-ADA",
             "label": "NEWM-ADA",
             "interval": 21600,
@@ -165,8 +145,8 @@
             "type": "CER"
         },
         {
-            "pair": "DJED-ADA",
-            "label": "DJED-ADA",
+            "pair": "ADA-DJED",
+            "label": "ADA-DJED",
             "interval": 43200,
             "deviation": 2,
             "source": "dex",
@@ -205,8 +185,8 @@
             "type": "CER"
         },
         {
-            "pair": "ERG-ADA",
-            "label": "ERG-ADA",
+            "pair": "rsERG-ADA",
+            "label": "rsERG-ADA",
             "interval": 43200,
             "deviation": 2,
             "source": "dex",
