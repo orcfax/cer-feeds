@@ -1,7 +1,7 @@
 {
     "meta": {
         "description": "active Orcfax CER feeds",
-        "version": "2025.05.06.0001"
+        "version": "2025.06.10.0001"
     },
     "feeds": [
         {
@@ -58,7 +58,7 @@
             "pair": "IAG-ADA",
             "label": "IAG-ADA",
             "interval": 21600,
-            "deviation": 5,
+            "deviation": 2,
             "source": "dex",
             "calculation": "weighted mean",
             "status": "showcase",
@@ -138,7 +138,7 @@
             "pair": "ADA-iUSD",
             "label": "ADA-iUSD",
             "interval": 21600,
-            "deviation": 5,
+            "deviation": 2,
             "source": "dex",
             "calculation": "weighted mean",
             "status": "showcase",
@@ -149,6 +149,66 @@
             "label": "WMTX-ADA",
             "interval": 21600,
             "deviation": 5,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "LQ-ADA",
+            "label": "LQ-ADA",
+            "interval": 43200,
+            "deviation": 2,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "DJED-ADA",
+            "label": "DJED-ADA",
+            "interval": 43200,
+            "deviation": 2,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "MIN-ADA",
+            "label": "MIN-ADA",
+            "interval": 43200,
+            "deviation": 2,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "SHEN-ADA",
+            "label": "SHEN-ADA",
+            "interval": 43200,
+            "deviation": 2,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "COPI-ADA",
+            "label": "COPI-ADA",
+            "interval": 43200,
+            "deviation": 2,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "ERG-ADA",
+            "label": "ERG-ADA",
+            "interval": 43200,
+            "deviation": 2,
             "source": "dex",
             "calculation": "weighted mean",
             "status": "showcase",
