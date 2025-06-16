@@ -37,7 +37,7 @@
         {
             "pair": "ADA-USDM",
             "label": "ADA-USDM",
-            "interval": 21600,
+            "interval": 3600,
             "deviation": 5,
             "source": "dex",
             "calculation": "weighted mean",
@@ -57,7 +57,7 @@
         {
             "pair": "COPI-ADA",
             "label": "COPI-ADA",
-            "interval": 43200,
+            "interval": 3600,
             "deviation": 2,
             "source": "dex",
             "calculation": "weighted mean",
@@ -87,7 +87,7 @@
         {
             "pair": "LQ-ADA",
             "label": "LQ-ADA",
-            "interval": 43200,
+            "interval": 3600,
             "deviation": 2,
             "source": "dex",
             "calculation": "weighted mean",
@@ -97,7 +97,7 @@
         {
             "pair": "MIN-ADA",
             "label": "MIN-ADA",
-            "interval": 43200,
+            "interval": 3600,
             "deviation": 2,
             "source": "dex",
             "calculation": "weighted mean",
@@ -117,7 +117,7 @@
         {
             "pair": "SHEN-ADA",
             "label": "SHEN-ADA",
-            "interval": 43200,
+            "interval": 3600,
             "deviation": 2,
             "source": "dex",
             "calculation": "weighted mean",
@@ -127,7 +127,7 @@
         {
             "pair": "SNEK-ADA",
             "label": "SNEK-ADA",
-            "interval": 21600,
+            "interval": 3600,
             "deviation": 5,
             "source": "dex",
             "calculation": "weighted mean",
@@ -147,7 +147,7 @@
         {
             "pair": "WMTX-ADA",
             "label": "WMTX-ADA",
-            "interval": 21600,
+            "interval": 3600,
             "deviation": 5,
             "source": "dex",
             "calculation": "weighted mean",
