@@ -165,16 +165,6 @@
             "type": "CER"
         },
         {
-            "pair": "AXO-ADA",
-            "label": "AXO-ADA",
-            "interval": 21600,
-            "deviation": 2,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
             "pair": "BODEGA-ADA",
             "label": "BODEGA-ADA",
             "interval": 21600,
@@ -295,16 +285,6 @@
             "type": "CER"
         },
         {
-            "pair": "MILK-ADA",
-            "label": "MILK-ADA",
-            "interval": 21600,
-            "deviation": 2,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
             "pair": "NEWM-ADA",
             "label": "NEWM-ADA",
             "interval": 21600,
@@ -347,16 +327,6 @@
         {
             "pair": "SOC-ADA",
             "label": "SOC-ADA",
-            "interval": 21600,
-            "deviation": 2,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
-            "pair": "STUFF-ADA",
-            "label": "STUFF-ADA",
             "interval": 21600,
             "deviation": 2,
             "source": "dex",
