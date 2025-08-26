@@ -165,16 +165,6 @@
             "type": "CER"
         },
         {
-            "pair": "BODEGA-ADA",
-            "label": "BODEGA-ADA",
-            "interval": 21600,
-            "deviation": 2,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
             "pair": "BOOK-ADA",
             "label": "BOOK-ADA",
             "interval": 21600,
@@ -187,16 +177,6 @@
         {
             "pair": "BTN-ADA",
             "label": "BTN-ADA",
-            "interval": 21600,
-            "deviation": 2,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
-            "pair": "CERRA-ADA",
-            "label": "CERRA-ADA",
             "interval": 21600,
             "deviation": 2,
             "source": "dex",
@@ -357,16 +337,6 @@
         {
             "pair": "WRT-ADA",
             "label": "WRT-ADA",
-            "interval": 21600,
-            "deviation": 2,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
-            "pair": "XER-ADA",
-            "label": "XER-ADA",
             "interval": 21600,
             "deviation": 2,
             "source": "dex",
