@@ -1,27 +1,27 @@
 {
     "meta": {
         "description": "active Orcfax CER feeds (mainnet)",
-        "version": "2025.06.16.0001"
+        "version": "2025.09.25.0001"
     },
     "feeds": [
         {
             "pair": "ADA-DJED",
             "label": "ADA-DJED",
-            "interval": 43200,
+            "interval": 3600,
             "deviation": 2,
             "source": "dex",
             "calculation": "weighted mean",
-            "status": "showcase",
+            "status": "sponsored",
             "type": "CER"
         },
         {
             "pair": "ADA-iUSD",
             "label": "ADA-iUSD",
-            "interval": 21600,
+            "interval": 3600,
             "deviation": 2,
             "source": "dex",
             "calculation": "weighted mean",
-            "status": "showcase",
+            "status": "sponsored",
             "type": "CER"
         },
         {
@@ -31,17 +31,17 @@
             "deviation": 1,
             "source": "cex",
             "calculation": "median",
-            "status": "subsidized",
+            "status": "sponsored",
             "type": "CER"
         },
         {
             "pair": "ADA-USDM",
             "label": "ADA-USDM",
             "interval": 3600,
-            "deviation": 5,
+            "deviation": 2,
             "source": "dex",
             "calculation": "weighted mean",
-            "status": "showcase",
+            "status": "sponsored",
             "type": "CER"
         },
         {
@@ -52,16 +52,6 @@
             "source": "dex",
             "calculation": "weighted mean",
             "status": "paid",
-            "type": "CER"
-        },
-        {
-            "pair": "COPI-ADA",
-            "label": "COPI-ADA",
-            "interval": 3600,
-            "deviation": 2,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
             "type": "CER"
         },
         {
@@ -77,11 +67,11 @@
         {
             "pair": "IAG-ADA",
             "label": "IAG-ADA",
-            "interval": 21600,
+            "interval": 3600,
             "deviation": 2,
             "source": "dex",
             "calculation": "weighted mean",
-            "status": "showcase",
+            "status": "sponsored",
             "type": "CER"
         },
         {
@@ -91,7 +81,7 @@
             "deviation": 2,
             "source": "dex",
             "calculation": "weighted mean",
-            "status": "showcase",
+            "status": "sponsored",
             "type": "CER"
         },
         {
@@ -101,17 +91,7 @@
             "deviation": 2,
             "source": "dex",
             "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
-            "pair": "rsERG-ADA",
-            "label": "rsERG-ADA",
-            "interval": 43200,
-            "deviation": 2,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
+            "status": "sponsored",
             "type": "CER"
         },
         {
@@ -128,30 +108,30 @@
             "pair": "SNEK-ADA",
             "label": "SNEK-ADA",
             "interval": 3600,
-            "deviation": 5,
+            "deviation": 2,
             "source": "dex",
             "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
-            "pair": "QTRS-ADA",
-            "label": "QTRS-ADA",
-            "interval": 21600,
-            "deviation": 5,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
+            "status": "sponsored",
             "type": "CER"
         },
         {
             "pair": "WMTX-ADA",
             "label": "WMTX-ADA",
             "interval": 3600,
-            "deviation": 5,
+            "deviation": 2,
             "source": "dex",
             "calculation": "weighted mean",
-            "status": "showcase",
+            "status": "sponsored",
+            "type": "CER"
+        },
+        {
+            "pair": "INDY-ADA",
+            "label": "INDY-ADA",
+            "interval": 3600,
+            "deviation": 2,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "sponsored",
             "type": "CER"
         }
     ]
