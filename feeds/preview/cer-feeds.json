@@ -55,16 +55,6 @@
             "type": "CER"
         },
         {
-            "pair": "COPI-ADA",
-            "label": "COPI-ADA",
-            "interval": 21600,
-            "deviation": 5,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
             "pair": "FACT-ADA",
             "label": "FACT-ADA",
             "interval": 21600,
@@ -105,16 +95,6 @@
             "type": "CER"
         },
         {
-            "pair": "rsERG-ADA",
-            "label": "rsERG-ADA",
-            "interval": 21600,
-            "deviation": 5,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
             "pair": "SHEN-ADA",
             "label": "SHEN-ADA",
             "interval": 3600,
@@ -139,16 +119,6 @@
             "label": "WMTX-ADA",
             "interval": 3600,
             "deviation": 2,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
-            "pair": "AGIX-ADA",
-            "label": "AGIX-ADA",
-            "interval": 21600,
-            "deviation": 5,
             "source": "dex",
             "calculation": "weighted mean",
             "status": "showcase",
@@ -285,26 +255,6 @@
             "type": "CER"
         },
         {
-            "pair": "RJV-ADA",
-            "label": "RJV-ADA",
-            "interval": 21600,
-            "deviation": 5,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
-            "pair": "SOC-ADA",
-            "label": "SOC-ADA",
-            "interval": 21600,
-            "deviation": 5,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
             "pair": "SUNDAE-ADA",
             "label": "SUNDAE-ADA",
             "interval": 21600,
@@ -357,16 +307,6 @@
         {
             "pair": "XER-ADA",
             "label": "XER-ADA",
-            "interval": 21600,
-            "deviation": 5,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
-            "pair": "CERRA-ADA",
-            "label": "CERRA-ADA",
             "interval": 21600,
             "deviation": 5,
             "source": "dex",
