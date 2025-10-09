@@ -1,7 +1,7 @@
 {
     "meta": {
         "description": "active Orcfax CER feeds (mainnet)",
-        "version": "2025.09.25.0001"
+        "version": "2025.10.09.0001"
     },
     "feeds": [
         {
@@ -132,6 +132,96 @@
             "source": "dex",
             "calculation": "weighted mean",
             "status": "sponsored",
+            "type": "CER"
+        },
+        {
+            "pair": "ADA-USDA",
+            "label": "ADA-USDA",
+            "interval": 3600,
+            "deviation": 2,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
+            "type": "CER"
+        },
+            {
+            "pair": "BODEGA-ADA",
+            "label": "BODEGA-ADA",
+            "interval": 3600,
+            "deviation": 2,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "BOOK-ADA",
+            "label": "BOOK-ADA",
+            "interval": 3600,
+            "deviation": 2,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "FLDT-ADA",
+            "label": "FLDT-ADA",
+            "interval": 3600,
+            "deviation": 2,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "HOSKY-ADA",
+            "label": "HOSKY-ADA",
+            "interval": 3600,
+            "deviation": 2,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "PALM-ADA",
+            "label": "PALM-ADA",
+            "interval": 3600,
+            "deviation": 2,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "STRIKE-ADA",
+            "label": "STRIKE-ADA",
+            "interval": 3600,
+            "deviation": 2,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "SUNDAE-ADA",
+            "label": "SUNDAE-ADA",
+            "interval": 3600,
+            "deviation": 2,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "SURF-ADA",
+            "label": "SURF-ADA",
+            "interval": 3600,
+            "deviation": 2,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
             "type": "CER"
         }
     ]
