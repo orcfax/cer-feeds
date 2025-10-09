@@ -1,7 +1,7 @@
 {
     "meta": {
         "description": "active Orcfax CER feeds (mainnet)",
-        "version": "2025.10.09.0001"
+        "version": "2025.10.09.0002"
     },
     "feeds": [
         {
@@ -155,8 +155,8 @@
             "type": "CER"
         },
         {
-            "pair": "BOOK-ADA",
-            "label": "BOOK-ADA",
+            "pair": "SURGE-ADA",
+            "label": "SURGE-ADA",
             "interval": 3600,
             "deviation": 2,
             "source": "dex",
