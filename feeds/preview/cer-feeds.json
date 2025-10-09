@@ -145,16 +145,6 @@
             "type": "CER"
         },
         {
-            "pair": "CHRY-ADA",
-            "label": "CHRY-ADA",
-            "interval": 21600,
-            "deviation": 5,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
             "pair": "ENCS-ADA",
             "label": "ENCS-ADA",
             "interval": 21600,
@@ -207,16 +197,6 @@
         {
             "pair": "LENFI-ADA",
             "label": "LENFI-ADA",
-            "interval": 21600,
-            "deviation": 5,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
-            "pair": "MELD-ADA",
-            "label": "MELD-ADA",
             "interval": 21600,
             "deviation": 5,
             "source": "dex",
@@ -307,26 +287,6 @@
         {
             "pair": "XER-ADA",
             "label": "XER-ADA",
-            "interval": 21600,
-            "deviation": 5,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
-            "pair": "MILK-ADA",
-            "label": "MILK-ADA",
-            "interval": 21600,
-            "deviation": 5,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
-            "pair": "AXO-ADA",
-            "label": "AXO-ADA",
             "interval": 21600,
             "deviation": 5,
             "source": "dex",
