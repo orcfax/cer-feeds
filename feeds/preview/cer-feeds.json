@@ -265,16 +265,6 @@
             "type": "CER"
         },
         {
-            "pair": "ADA-iBTC",
-            "label": "ADA-iBTC",
-            "interval": 21600,
-            "deviation": 5,
-            "source": "dex",
-            "calculation": "weighted mean",
-            "status": "showcase",
-            "type": "CER"
-        },
-        {
             "pair": "ADA-iETH",
             "label": "ADA-iETH",
             "interval": 21600,
