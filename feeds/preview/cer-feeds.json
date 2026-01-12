@@ -35,6 +35,26 @@
             "type": "CER"
         },
         {
+            "pair": "BTC/USD",
+            "label": "BTC/USD",
+            "interval": 3600,
+            "deviation": 1,
+            "source": "cex",
+            "calculation": "median",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
+            "pair": "ETH/USD",
+            "label": "ETH/USD",
+            "interval": 3600,
+            "deviation": 1,
+            "source": "cex",
+            "calculation": "median",
+            "status": "showcase",
+            "type": "CER"
+        },
+        {
             "pair": "ADA-USDM",
             "label": "ADA-USDM",
             "interval": 3600,
