@@ -35,8 +35,8 @@
             "type": "CER"
         },
         {
-            "pair": "BTC/USD",
-            "label": "BTC/USD",
+            "pair": "BTC-USD",
+            "label": "BTC-USD",
             "interval": 3600,
             "deviation": 1,
             "source": "cex",
@@ -45,8 +45,8 @@
             "type": "CER"
         },
         {
-            "pair": "ETH/USD",
-            "label": "ETH/USD",
+            "pair": "ETH-USD",
+            "label": "ETH-USD",
             "interval": 3600,
             "deviation": 1,
             "source": "cex",
