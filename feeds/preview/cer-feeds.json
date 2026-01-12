@@ -373,6 +373,16 @@
             "calculation": "weighted mean",
             "status": "showcase",
             "type": "CER"
+        },
+        {
+            "pair": "NIGHT-ADA",
+            "label": "NIGHT-ADA",
+            "interval": 3600,
+            "deviation": 1,
+            "source": "dex",
+            "calculation": "weighted mean",
+            "status": "showcase",
+            "type": "CER"
         }
     ]
 }
