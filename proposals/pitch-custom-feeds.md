@@ -11,7 +11,7 @@ A first attempt at visioning the custom-feed product. The "Press Release" is
 meant to serve as a gut-check as to the viability of the product and the Orcfax
 team's enthusiasm for developing it.
 
-This process uses [Working Backwards](backwards) method.
+This process uses [Working Backwards][backwards] method.
 
 [backwards]: https://www.productplan.com/glossary/working-backward-amazon-method/
 
